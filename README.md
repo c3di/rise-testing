@@ -11,5 +11,5 @@ into `whatever_folder/whatever_class/actual_pictures` so the image loader from t
 
 ### What is different?
 Compared to the [original](https://github.com/eclique/RISE) repository,  
-In Easy_start, `keras` became `tensorflow.keras` because it has become a part of the tensorflow package.  
+In Easy_start, `keras` became `tensorflow.keras` because it has become a part of the tensorflow package some time ago.  
 In Saliency, the image folder and gpu batch size were changed.
