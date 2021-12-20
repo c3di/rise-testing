@@ -1,0 +1,13 @@
+name: rise
+
+dependencies:
+  - conda-forge::jupyterlab
+  - conda-forge::numpy
+  - conda-forge::matplotlib
+  - conda-forge::scikit-image
+  - conda-forge::tqdm
+  - conda-forge::ipywidgets
+  - tensorflow-gpu
+  - pytorch::pytorch
+  - pytorch::torchvision 
+  - pytorch::torchaudio
